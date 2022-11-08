@@ -9,3 +9,4 @@
 - Diferente do VirtualBox o libvirt para compartilhar o diretório /vagrant precisa que seja configurado o nfs.
 - Execução em paralelo foi desativada, para que o manager seja criado antes dos demais managers e nodes do docker swarm.
 
+- Este script, cria o Manager principal e secundário assim como os nós do docker swarm.
